@@ -1,0 +1,1 @@
+savedcmd_/home/shivam/data/kernel/day-2/modules.order := {   echo /home/shivam/data/kernel/day-2/first_module.o;   echo /home/shivam/data/kernel/day-2/optimized_first_module.o; :; } > /home/shivam/data/kernel/day-2/modules.order
