@@ -1,0 +1,1 @@
+savedcmd_/home/shivam/data/kernel/day-1/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/shivam/data/kernel/day-1/Module.symvers -T /home/shivam/data/kernel/day-1/modules.order -i Module.symvers -e 

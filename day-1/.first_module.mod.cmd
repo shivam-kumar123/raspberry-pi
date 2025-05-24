@@ -1,0 +1,1 @@
+savedcmd_/home/shivam/data/kernel/day-1/first_module.mod := printf '%s\n'   first_module.o | awk '!x[$$0]++ { print("/home/shivam/data/kernel/day-1/"$$0) }' > /home/shivam/data/kernel/day-1/first_module.mod

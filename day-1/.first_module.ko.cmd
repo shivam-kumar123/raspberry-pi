@@ -1,0 +1,1 @@
+savedcmd_/home/shivam/data/kernel/day-1/first_module.ko := ld -r -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/shivam/data/kernel/day-1/first_module.ko /home/shivam/data/kernel/day-1/first_module.o /home/shivam/data/kernel/day-1/first_module.mod.o
