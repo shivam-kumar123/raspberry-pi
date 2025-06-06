@@ -1,1 +1,0 @@
-savedcmd_/home/shivam/data/kernel/day-2/kernel_module_exit.ko := ld -r -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/shivam/data/kernel/day-2/kernel_module_exit.ko /home/shivam/data/kernel/day-2/kernel_module_exit.o /home/shivam/data/kernel/day-2/kernel_module_exit.mod.o

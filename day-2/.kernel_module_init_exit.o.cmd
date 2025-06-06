@@ -1,1 +1,0 @@
-savedcmd_/home/shivam/data/kernel/day-2/kernel_module_init_exit.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o /home/shivam/data/kernel/day-2/kernel_module_init_exit.o @/home/shivam/data/kernel/day-2/kernel_module_init_exit.mod 

@@ -1,1 +1,0 @@
-savedcmd_/home/shivam/data/kernel/day-2/kernel_module_init.ko := ld -r -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/shivam/data/kernel/day-2/kernel_module_init.ko /home/shivam/data/kernel/day-2/kernel_module_init.o /home/shivam/data/kernel/day-2/kernel_module_init.mod.o

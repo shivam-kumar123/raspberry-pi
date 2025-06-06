@@ -1,1 +1,0 @@
-savedcmd_/home/shivam/data/kernel/day-2/kernel_module_init_exit.mod := printf '%s\n'   kernel_module_init.o kernel_module_exit.o | awk '!x[$$0]++ { print("/home/shivam/data/kernel/day-2/"$$0) }' > /home/shivam/data/kernel/day-2/kernel_module_init_exit.mod
